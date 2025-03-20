@@ -1,4 +1,4 @@
-package Arrays.SortingProblems;
+package SortingProblems;
 
 import java.util.Random;
 import java.util.Arrays;  // Import Arrays for printing

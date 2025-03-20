@@ -1,4 +1,4 @@
-package Arrays.SortingProblems;
+package SortingProblems;
 import java.util.*;
 import java.io.*;
 
